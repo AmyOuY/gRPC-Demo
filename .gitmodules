@@ -1,0 +1,6 @@
+[submodule "simple-grpc-server"]
+	path = simple-grpc-server
+	url = https://github.com/AmyOuY/simple-grpc-server.git
+[submodule "simple-grpc-client"]
+	path = simple-grpc-client
+	url = https://github.com/AmyOuY/simple-grpc-client.git
